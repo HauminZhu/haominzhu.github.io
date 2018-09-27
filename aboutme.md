@@ -27,14 +27,15 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 
 > In this project, I implemented an UKF algorithm that estimates the 3D orientation (roll, pitch, yaw) of robot using data from gyroscopes and accelerometers, we will estimation the underlying 3D orientation by learning the appropriate models parameters from the ground truth given by a Vicon motion capture system. And then using estimation to generate a real-time panoramic image from camera. More detalis can be found [here](https://drive.google.com/file/d/1o5SvcSBA19LULOKvvoPVM_jdCfaBRu-j/view?usp=sharing).
 
+### Robockey 2016 of Penn
+[![ROBOCKEY](http://img.youtube.com/vi/-ZKGABq9zFw/0.jpg)](http://www.youtube.com/watch?v=-ZKGABq9zFw "ROBOCKEY")
+
 ### Particle Filter Based Simultaneous Localization and Mapping
 TODO
 
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
 TODO
 
-### Robockey 2017 of Penn
-TODO
 
 ### Hidden Markov Model Based Gesture Recognition
 TODO
