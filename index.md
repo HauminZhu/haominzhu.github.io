@@ -15,4 +15,4 @@ Before coming to Penn, I graduated from [University of Science and Technology, B
 My background is super interdisciplinary (**CS, EE, ME**). I have much experience of projects and research in roboics, computer vision, learning and mechatronics. Currently my research interests lie in learning (especially generative models) in computer vision, robotics and control. 
 
 I'm enthusiastic in developing and applying all kinds of learning algorithm to real robots especially
-ones used in service, human-assisting fields. I want to develop the **highly-intelligent robots** that can be **better controlled, understand and interact with human**. The ultimate goal of mine is making these robots can be rapidly designed, built and replicated with low-cost.
+ones used in service, human-assisting fields. I want to develop the **highly-intelligent robots** that can be **better controlled, understand and interact with human**. The ultimate goal of mine is making these robots can be **rapidly designed, built and replicated with low-cost**.
