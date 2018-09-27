@@ -17,10 +17,9 @@ TODO
 [![FCNSLAM](http://img.youtube.com/vi/UbIvX2wLOx0/0.jpg)](http://www.youtube.com/watch?v=UbIvX2wLOx0 "FCNSLAM")
 
 
-### Omni-bearing Mobile Chassis Control and Localization (ROBOCON 2014)
-[![ROBOCON2014](http://img.youtube.com/vi/j0Ndp49VYPs/0.jpg)](http://www.youtube.com/watch?v=j0Ndp49VYPs "ROBOCON2014")
-(HIT vs UESTC)
-> The ABU Robocon 2014 was conducted on 24 August 2014 at Pune, India. The Theme for Robocon 2014 declared by India was "A Salute for Parenthood". As a member of competative robotics lab of USTB, I participated in manually and automatic robots design, building. We built one manully controlled 'mother' robot which can holds the fully-automatic 'baby' robot to different mission fields and let the 'baby' automatically finish required tasks. I also took charge of the related student research training program of omni-bearing mobil chassis design and control algoithm development which is used on 'mother' robot.
+### Omni-bearing Mobile Chassis Control and Localization (ABU ROBOCON 2014)
+[![ROBOCON2014](http://img.youtube.com/vi/GRFTnDMXKEM/0.jpg)](http://www.youtube.com/watch?v=GRFTnDMXKEM "ROBOCON2014")
+> The [ABU Robocon 2014](https://www.youtube.com/watch?v=GchwbtfqDzc) was conducted on 24 August 2014 at Pune, India. The Theme for Robocon 2014 declared by India was "A Salute for Parenthood". As a member of competative robotics lab of USTB, I participated in manually and automatic robots design, building. We built one manully controlled 'mother' robot which can holds the fully-automatic 'baby' robot to different mission fields and let the 'baby' automatically finish required tasks. I also took charge of the related student research training program of omni-bearing mobil chassis design and control algoithm development which is used on 'mother' robot.
 
 ### Unscented Kalman Filter Based Robot Orientation Estimation and Scene Panorama
 [![UKF10](http://img.youtube.com/vi/YZcB-QJcKUk/0.jpg)](http://www.youtube.com/watch?v=YZcB-QJcKUk "UKF10")
