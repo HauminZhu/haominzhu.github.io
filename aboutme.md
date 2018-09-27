@@ -7,8 +7,8 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > ### A journey of a thousand miles begins with a single step. 
 > #### 不积跬步无以至千里
 
-### Event-based Camera Model with Conditional Adversarial Networks(ongoing)
-TODO (cGAN for event-based camera model generation)
+### Event-based Camera Model with Conditional Adversarial Networks (ongoing)
+> Conditional GAN for event-based camera model generation
 
 ### Quadrotor Localization and Control Based on VIO and Single Apriltag
 TODO
