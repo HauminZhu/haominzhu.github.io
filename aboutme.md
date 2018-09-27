@@ -8,10 +8,11 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > #### 不积跬步无以至千里
 
 ### Event-based Camera Model with Conditional Adversarial Networks (ongoing)
-> Conditional GAN for event-based camera model generation
+> Conditional GAN for event-based camera model generation. Details are upcoming.
 
 ### Quadrotor Localization and Control Based on VIO and Single Apriltag
-TODO
+[![apriltag](http://img.youtube.com/vi/SXhylsI6tZY/0.jpg)](http://www.youtube.com/watch?v=SXhylsI6tZY "apriltag")
+
 
 ### Fully Connected Network Based Loop-closure Simultaneous Localization and Mapping
 [![FCNSLAM](http://img.youtube.com/vi/UbIvX2wLOx0/0.jpg)](http://www.youtube.com/watch?v=UbIvX2wLOx0 "FCNSLAM")
