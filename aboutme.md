@@ -20,7 +20,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 
 ### Omni-bearing Mobile Chassis Control and Localization (ABU ROBOCON 2014)
 [![ROBOCON2014](http://img.youtube.com/vi/GRFTnDMXKEM/0.jpg)](http://www.youtube.com/watch?v=GRFTnDMXKEM "ROBOCON2014")
-> The [ABU Robocon 2014](https://www.youtube.com/watch?v=GchwbtfqDzc) was conducted on 24 August 2014 at Pune, India. The Theme for Robocon 2014 declared by India was "A Salute for Parenthood". As a member of competative robotics lab of USTB, I participated in manually and automatic robots design, building. We built one manully controlled 'mother' robot which can holds the fully-automatic 'baby' robot to different mission fields and let the 'baby' automatically finish required tasks. I also took charge of the related student research training program of omni-bearing mobil chassis design and control algoithm development which is used on 'mother' robot.
+> The [ABU Robocon 2014](https://www.youtube.com/watch?v=GchwbtfqDzc) was conducted on 24 August 2014 at Pune, India. The Theme for Robocon 2014 declared by India was "A Salute for Parenthood". As a member of competative robotics lab of USTB, I participated in manually and automatic robots design, building. We built one manully controlled 'mother' robot which can holds the fully-automatic 'baby' robot to different mission fields and let the 'baby' automatically finish required tasks. I also took charge of the related student research training program of omni-bearing mobil chassis design and control algoithm development which is used on 'mother' robot. We won the **1st Prize with 8th Place** in this contest.
 
 ### Unscented Kalman Filter Based Robot Orientation Estimation and Scene Panorama
 [![UKF10](http://img.youtube.com/vi/YZcB-QJcKUk/0.jpg)](http://www.youtube.com/watch?v=YZcB-QJcKUk "UKF10")
@@ -29,7 +29,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 
 ### Robockey 2016 of Penn
 [![ROBOCKEY](http://img.youtube.com/vi/-ZKGABq9zFw/0.jpg)](http://www.youtube.com/watch?v=-ZKGABq9zFw "ROBOCKEY")
-> [Robockey](http://medesign.seas.upenn.edu/index.php/Courses.MEAM510-12C-ROBOCKEY) is final project for MEAM510 Mechatronics System and Design at Penn. It's an annual tournament at Penn. Over the course of six weeks we designed, prototyped, built, and tested a team of three robots to autonmously play hockey. Our team-17 won the second place in the final contest among 30 teams. I took charge of the design of all tree different hockey robots and help develop the control algorithm of them.
+> [Robockey](http://medesign.seas.upenn.edu/index.php/Courses.MEAM510-12C-ROBOCKEY) is final project for MEAM510 Mechatronics System and Design at Penn. It's an annual tournament at Penn. Over the course of six weeks we designed, prototyped, built, and tested a team of three robots to autonmously play hockey. Our team-17 won the **second place** in the final contest among 30 teams. I took charge of the design of all tree different hockey robots and help develop the control algorithm of them.
 
 ### Particle Filter Based Simultaneous Localization and Mapping
 [![SLAM](http://img.youtube.com/vi/pIXTOGjYGwI/0.jpg)](http://www.youtube.com/watch?v=pIXTOGjYGwI "SLAM")
@@ -40,7 +40,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 ### ABU ROBOCON 2015
 [![ROBOCON2015](http://img.youtube.com/vi/D9vJPjMSstM/0.jpg)](http://www.youtube.com/watch?v=D9vJPjMSstM "ROBOCON2015")
 
-The [ABU ROBOCON 2015](https://www.youtube.com/watch?v=XiAct2sre-M) was held in August in Yogyakarta, Indonesia. The contest theme was "Robominton-Badminton RoboGame".
+The [ABU ROBOCON 2015](https://www.youtube.com/watch?v=XiAct2sre-M) was held in August in Yogyakarta, Indonesia. The contest theme was "Robominton-Badminton RoboGame". We won the **1st Prize with 3rd Place** in this contest.
 
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
 TODO
