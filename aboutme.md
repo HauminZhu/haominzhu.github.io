@@ -16,7 +16,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 
 ### Fully Connected Network Based Loop-closure Simultaneous Localization and Mapping
 [![FCNSLAM](http://img.youtube.com/vi/UbIvX2wLOx0/0.jpg)](http://www.youtube.com/watch?v=UbIvX2wLOx0 "FCNSLAM")
-
+> In this project, we focus on using loop closure to improve the performance of SLAM. We train a Fully Convolution Network (FCN) to segment the scene. Then we conduct loop detection through two approaches: the first approach is based on comparing patterns in the images recognized from the segmentation results; the second approach is based on comparing the feature maps extracted from the last convolutional layer in the FCN. After detecting the loop, we conduct local scan matching to obtain the optimal loop closing pose. Comparing this optimal pose with corresponding pose from original SLAM process, we derive the pose error in loop closing point. Finally, we backpropagate the error back to optimize the trajectory, and re-estimate the map. From the results, we can see that our loop closure pipeline has satisfactory performance. More details can be found [here](https://docs.google.com/presentation/d/1LXZBWzL3knhRaRUoEIvMcnIDkkwjKsgEsluMrY89CKI/edit?usp=sharing).
 
 ### Omni-bearing Mobile Chassis Control and Localization (ABU ROBOCON 2014)
 [![ROBOCON2014](http://img.youtube.com/vi/GRFTnDMXKEM/0.jpg)](http://www.youtube.com/watch?v=GRFTnDMXKEM "ROBOCON2014")
