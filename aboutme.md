@@ -20,7 +20,7 @@ TODO
 TODO
 
 ### Unscented Kalman Filter Based Robot Orientation Estimation and Image Stitching
-[![UKF12](http://img.youtube.com/vi/5h3WvN3YURc/0.jpg)](http://www.youtube.com/watch?v=5h3WvN3YURc "UKF12")
+<iframe width="560" height="315" src="http://www.youtube.com/watch?v=5h3WvN3YURc" frameborder="0" allowfullscreen></iframe>
 
 ### Particle Filter Based Simultaneous Localization and Mapping
 TODO
