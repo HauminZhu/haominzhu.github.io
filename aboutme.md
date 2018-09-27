@@ -29,6 +29,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 
 ### Robockey 2016 of Penn
 [![ROBOCKEY](http://img.youtube.com/vi/-ZKGABq9zFw/0.jpg)](http://www.youtube.com/watch?v=-ZKGABq9zFw "ROBOCKEY")
+> [Robockey](http://medesign.seas.upenn.edu/index.php/Courses.MEAM510-12C-ROBOCKEY) is final project for MEAM510 Mechatronics System and Design at Penn. It's an annual tournament at Penn. Over the course of six weeks we designed, prototyped, built, and tested a team of three robots to autonmously play hockey. Our team-17 won the second place in the final contest among 30 teams. I took charge of the design of all tree different hockey robots and help develop the control algorithm of them.
 
 ### Particle Filter Based Simultaneous Localization and Mapping
 TODO
