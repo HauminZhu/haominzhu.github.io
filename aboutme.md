@@ -33,8 +33,9 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 
 ### Particle Filter Based Simultaneous Localization and Mapping
 [![SLAM](http://img.youtube.com/vi/pIXTOGjYGwI/0.jpg)](http://www.youtube.com/watch?v=pIXTOGjYGwI "SLAM")
+
 (Irrelavent to the project, just a show of same type robot used in this project)
-> Using data collected by a humanoid robot, THOR-OP, I implement the particle filter based simultanesou localization and mapping. The sensors in the robot are IMUs, a 2D laser range finder(LIDAR), which are used for SLAM, and an RGBD camera(Kinect), which is used for ground detection and texture mapping. Specifically, this project utilized the Monte Carlo probabilistic localization to update the robot pose and built an occupancy map. After the robot odometry and map have been updated, we can then use images and depth information from RGBD sensor to build the full textured map. More detailed technique report can be found
+> In this project, I implemented a particle filter based SLAM Using data collected by a humanoid robot, THOR-OP. The sensors in the robot used in this project are IMUs, a 2D laser range finder(LIDAR), which are used for SLAM, and an RGBD camera(Kinect), which is used for ground detection and texture mapping. This project utilized the Monte Carlo probabilistic localization to update the robot pose and built an occupancy map. After the robot odometry and map have been updated, we can then use images and depth information from RGBD sensor to build the full textured map. More details can be found [here](https://drive.google.com/file/d/16IkqVXOwycFfrLx0UPp3M5D0AOkudBLr/view?usp=sharing).
 
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
 TODO
