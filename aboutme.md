@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: ""
+subtitle: Robotics | Computer Vision | Learning | Mechatronics
 ---
 ## Reserch and Projects
 > ### A journey of a thousand miles begins with a single step. 
