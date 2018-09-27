@@ -14,7 +14,8 @@ TODO (cGAN for event-based camera model generation)
 TODO
 
 ### Fully Connected Network Based Loop-closure Simultaneous Localization and Mapping
-TODO
+[![FCNSLAM](http://img.youtube.com/vi/UbIvX2wLOx0/0.jpg)](http://www.youtube.com/watch?v=UbIvX2wLOx0 "FCNSLAM")
+
 
 ### Omni-bearing Mobile Chassis Control and Localization (ROBOCON 2014)
 [![ROBOCON2014](http://img.youtube.com/vi/j0Ndp49VYPs/0.jpg)](http://www.youtube.com/watch?v=j0Ndp49VYPs "ROBOCON2014")
