@@ -19,14 +19,11 @@ TODO
 ### Omni-bearing Mobile Chassis Control and Localization(ROBOCON 2014)
 TODO
 
-### Unscented Kalman Filter Based Robot Orientation Estimation and Image Stitching
+### Unscented Kalman Filter Based Robot Orientation Estimation and Scene Panorama
 [![UKF10](http://img.youtube.com/vi/YZcB-QJcKUk/0.jpg)](http://www.youtube.com/watch?v=YZcB-QJcKUk "UKF10")
 
-In this project, I implemented an UKF algorithm that estimates the orientation (roll, pitch, yaw) using the data from IMU; also implemented an image stitching algorithm to generate a panorama image using the UKF estimate rotation matrix with corresponding camera data:
-* Use a data checking algorithm to find the bias of the IMU data, accelerometer and gyroscope separately.
-* Use a data converting algorithm to get rid of the bias from image data.
-* Use Unscented Kalman Filter (UKF) algorithm to find optimal parameters for orientation estimation.
-* Do image stitching (image stitching.py) to stitch camera image to a panorama one using the orientation tracked from UKF algorithm.
+In this project, I implemented an UKF algorithm that estimates the 3D orientation (roll, pitch, yaw) of robot using data from gyroscopes and accelerometers, we will estimation the underlying 3D orientation by learning the appropriate models parameters from the ground truth given by a Vicon motion capture system. And then using estimation to generate a real-time panoramic image from camera. More detalis can be found [here](https://drive.google.com/file/d/1o5SvcSBA19LULOKvvoPVM_jdCfaBRu-j/view?usp=sharing)
+
 ### Particle Filter Based Simultaneous Localization and Mapping
 TODO
 
