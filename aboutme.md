@@ -7,5 +7,34 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > ### A journey of a thousand miles begins with a single step. 
 > #### 不积跬步无以至千里
 
-### Robot Orientation Estimation and Image Stitching Using Unscented Kalman Filter
-![](https://drive.google.com/file/d/1kqMWEppQFCNEUiIQ_KL7GOWvjzscDtyI/view?usp=sharing)
+### Event-based Camera Model with Conditional Adversarial Networks(ongoing)
+TODO (cGAN for event-based camera model generation)
+
+### Quadrotor Localization and Control Based on VIO and Single Apriltag
+TODO
+
+### Fully Connected Network Based Loop-closure Simultaneous Localization and Mapping
+TODO
+
+### Omni-bearing Mobile Chassis Control and Localization(ROBOCON 2014)
+TODO
+
+### Unscented Kalman Filter Based Robot Orientation Estimation and Image Stitching
+TODO
+
+### Particle Filter Based Simultaneous Localization and Mapping
+TODO
+
+### Color Segmentation and Object Detection Based on Gaussian Mixture Model
+TODO
+
+### Robockey 2017 of Penn
+TODO
+
+### Hidden Markov Model Based Gesture Recognition
+TODO
+
+
+
+### ROBOCON 2015
+TODO
