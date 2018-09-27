@@ -11,7 +11,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > Conditional GAN for event-based camera model generation. Details are upcoming.
 
 ### Quadrotor Localization and Control Based on VIO and Single Apriltag
--> [![apriltag](http://img.youtube.com/vi/SXhylsI6tZY/0.jpg)](http://www.youtube.com/watch?v=SXhylsI6tZY "apriltag") <-
+        [![apriltag](http://img.youtube.com/vi/SXhylsI6tZY/0.jpg)](http://www.youtube.com/watch?v=SXhylsI6tZY "apriltag")
 > In this project, I developed the VIO based algorithm using single apriltag to do quadrotor global localization. Also we control the quadrotor based on the the global frame aligning with the apriltag. At the very beginning, before the quadrotor detects the apriltag and defines the global frame, it can only go to relative position based on takeoff frame. After it detects the apriltag, it can go to global position based on that. And every time it sees the apriltag again, it can refresh and correct its global position. Using this way, we no more need big motion capture system and can do outdoor job better.
 
 ### Fully Connected Network Based Loop-closure Simultaneous Localization and Mapping
