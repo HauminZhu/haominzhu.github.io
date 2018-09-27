@@ -2,7 +2,7 @@
 layout: page
 title: 你好！Welcome!
 subtitle: I'm Haomin (Haumin) Zhu,
-subtitle: current Computer and Information Science (CIS) and Robotics (ROBO) student at University of Pennsylvania
+subtitle1: current Computer and Information Science (CIS) and Robotics (ROBO) student at University of Pennsylvania
 use-site-title: true
 ---
 
@@ -15,6 +15,11 @@ use-site-title: true
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+	  {% if post.subtitle1 %}
+	  <h3 class="post-subtitle1">
+	    {{ post.subtitle1 }}
 	  </h3>
 	  {% endif %}
     </a>
