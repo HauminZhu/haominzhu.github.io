@@ -4,7 +4,8 @@ title: ""
 subtitle: ""
 ---
 ## Reserch and Projects
-### A journey of a thousand miles begins with a single step. (不积跬步无以至千里)
+### A journey of a thousand miles begins with a single step. 
+### 不积跬步无以至千里
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
