@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research/Projects
+subtitle: A journey of a thousand miles begins with a single step. (不积跬步无以至千里)
 ---
 
 My name is Inigo Montoya. I have the following qualities:
