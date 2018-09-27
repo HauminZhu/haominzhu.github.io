@@ -37,6 +37,9 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 (Irrelavent to the project, just a show of same type robot used in this project)
 > In this project, I implemented a particle filter based SLAM Using data collected by a humanoid robot, THOR-OP. The sensors in the robot used in this project are IMUs, a 2D laser range finder(LIDAR), which are used for SLAM, and an RGBD camera(Kinect), which is used for ground detection and texture mapping. This project utilized the Monte Carlo probabilistic localization to update the robot pose and built an occupancy map. After the robot odometry and map have been updated, we can then use images and depth information from RGBD sensor to build the full textured map. More details can be found [here](https://drive.google.com/file/d/16IkqVXOwycFfrLx0UPp3M5D0AOkudBLr/view?usp=sharing). This is a naive version of SLAM, I improved the result of this project in another project FCN based loop-closure SLAM.
 
+### ABU ROBOCON 2015
+The [ABU ROBOCON 2015](https://www.youtube.com/watch?v=XiAct2sre-M) was held in August in Yogyakarta, Indonesia. The contest theme was "Robominton-Badminton RoboGame".
+
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
 TODO
 
@@ -45,5 +48,4 @@ TODO
 TODO
 
 
-### ROBOCON 2015
-TODO
+
