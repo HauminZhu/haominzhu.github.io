@@ -40,7 +40,8 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 ### ABU ROBOCON 2015
 [![ROBOCON2015](http://img.youtube.com/vi/D9vJPjMSstM/0.jpg)](http://www.youtube.com/watch?v=D9vJPjMSstM "ROBOCON2015")
 
-The [ABU ROBOCON 2015](https://www.youtube.com/watch?v=XiAct2sre-M) was held in August in Yogyakarta, Indonesia. The contest theme was "Robominton-Badminton RoboGame". We won the **1st Prize with 3rd Place** in this contest.
+(USTEC vs. Dong Jiong, Chinese world champion of badminton)
+> The [ABU ROBOCON 2015](https://www.youtube.com/watch?v=XiAct2sre-M) was held in August in Yogyakarta, Indonesia. The contest theme was "Robominton-Badminton RoboGame". We won the **1st Prize with 3rd Place** in this contest. As member of competative robot lab of USTB, I worked as advisor and leader of reserve team.
 
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
 TODO
