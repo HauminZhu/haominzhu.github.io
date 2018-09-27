@@ -32,7 +32,9 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > [Robockey](http://medesign.seas.upenn.edu/index.php/Courses.MEAM510-12C-ROBOCKEY) is final project for MEAM510 Mechatronics System and Design at Penn. It's an annual tournament at Penn. Over the course of six weeks we designed, prototyped, built, and tested a team of three robots to autonmously play hockey. Our team-17 won the second place in the final contest among 30 teams. I took charge of the design of all tree different hockey robots and help develop the control algorithm of them.
 
 ### Particle Filter Based Simultaneous Localization and Mapping
-TODO
+[![SLAM](http://img.youtube.com/vi/pIXTOGjYGwI/0.jpg)](http://www.youtube.com/watch?v=pIXTOGjYGwI "SLAM")
+(Irrelavent to the project, just a show of same type robot used in this project)
+> Using data collected by a humanoid robot, THOR-OP, I implement the particle filter based simultanesou localization and mapping. The sensors in the robot are IMUs, a 2D laser range finder(LIDAR), which are used for SLAM, and an RGBD camera(Kinect), which is used for ground detection and texture mapping. Specifically, this project utilized the Monte Carlo probabilistic localization to update the robot pose and built an occupancy map. After the robot odometry and map have been updated, we can then use images and depth information from RGBD sensor to build the full textured map. More detailed technique report can be found
 
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
 TODO
