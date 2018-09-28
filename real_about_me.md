@@ -20,4 +20,4 @@ Maybe the Gundam is the primary reason why I fell in love with robotics when I w
 # LEGO
 ![test](/img/avatar-icon.png)
 
-If let me select one of the most significant inventions in 20th century, I would say LEGO must be a member of them. Just like what I want to do with robots, the freedom to create and build is one of the property I think the ultimate way of design robots should be! Also I love to collect LEGO minigures!
+If let me select one of the most significant inventions in 20th century, I would say LEGO must be a member of them. Just like what I want to do with robots, its freedom to create and build is one of key property the ultimate way of design robots should have! Also I love to collect LEGO minigures!
