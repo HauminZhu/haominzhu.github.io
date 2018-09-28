@@ -13,6 +13,7 @@ Also I'm super and crazy fan of Kobe starting from 2007. The reason I become a K
 
 # Gundam & Gunpla
 ![gundam](/img/11.png)
+
 (My work!)
 
 Maybe the Gundam is the primary reason why I fell in love with robotics when I was just a kid. With all this years, I love building Gunpla (Model Kits of Gundam), and building Gunpla makes me peace and clam.
