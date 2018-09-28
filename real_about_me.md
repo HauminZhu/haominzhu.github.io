@@ -13,6 +13,7 @@ Also I'm super and crazy fan of Kobe starting from 2007. The reason I become a K
 
 # Gundam $ Gunpla
 ![gundam](https://vignette.wikia.nocookie.net/gundam/images/0/03/Rxuc-ova-ntd.jpg/revision/latest/scale-to-width-down/310?cb=20160225044457)
-![test](image: /path/to/img/avatar-icon)
+
+![test](image: /path/to/img/avatar-icon.png)
 
 Maybe Gundam is the very beginning source where my interests of robotics comes from. 
