@@ -48,18 +48,12 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > The [ABU ROBOCON 2015](https://www.youtube.com/watch?v=XiAct2sre-M) was held in August in Yogyakarta, Indonesia. The contest theme was "Robominton-Badminton RoboGame". We won the **1st Prize with 3rd Place** in this contest. As member of competative robot lab of USTB, I worked as advisor and leader of reserve team.
 
 ### Color Segmentation and Object Detection Based on Gaussian Mixture Model
-<div align=left>
-  <img width="400" height="400" src="/img/GMM.png", alt="result"/>
-</div>
+![GMM](/img/GMM.png)
 
 > In this project, it trains a GMM probabilistic color model from image data, which will be used to segment and detect a target of interest (red barrel), and find the relative world coordinates of the target with respect to the camera frame. More specifically, given a set of training images, hand-label examples of different colors first. Then from these training examples, build color classifiers for several colors (e.g., red, yellow, brown, etc.) and finally a red barrel detector. After detection, use own designed algorithm to obtain the bounding box of a detected barrel in the image frame and use the camera parameters to calculate the distance to the barrel on a set of new test images. More detals can be found [HERE](https://drive.google.com/file/d/1WrkjVK_kIzKkBLRCHbgkg91dZRN2C8GQ/view?usp=sharing).
 
 
 ### Hidden Markov Model Based Gesture Recognition
-<div align=left>
-  <img width="400" height="400" src="/img/HMM.png", alt="result"/>
-</div>
+![HMM](/img/HMM.png)
 
 > In this project I implemented an algorithm based on the HMM to recognize different robot arm motion gestures. Finally, it can achieve the ability to classify unknown arm motions in real-time. More details can be found [HERE](https://drive.google.com/file/d/1jrNJZ-b-0qBN3pMlLwE3VQyAsYtaO_TD/view?usp=sharing).
-
-
