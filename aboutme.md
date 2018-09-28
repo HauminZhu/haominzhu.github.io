@@ -8,7 +8,7 @@ subtitle: Robotics | Computer Vision | Learning | Mechatronics
 > #### 不积跬步无以至千里
 
 ### Event-based Camera Model with Conditional Adversarial Networks (ongoing)
-![event](/img/event.png)
+![event](/img/e.png)
 
 > Conditional GAN for event-based camera model generation. Details are upcoming.
 
