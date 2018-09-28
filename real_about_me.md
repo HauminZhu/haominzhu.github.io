@@ -11,9 +11,12 @@ I love basketball and used to be member of high school and university school bas
 
 Also I'm super and crazy fan of Kobe starting from 2007. The reason I become a Kobe fan is not only his championships, his magnificent moves, his excellent techniques, but also his **passion**, his **courage**, his **pursuit of perfection** and his **unyeilding spirit**.
 
-# Gundam $ Gunpla
-![gundam](https://vignette.wikia.nocookie.net/gundam/images/0/03/Rxuc-ova-ntd.jpg/revision/latest/scale-to-width-down/310?cb=20160225044457)
+# Gundam & Gunpla
+![gundam](/img/11.png)
 
+(My work!)
+
+Maybe the Gundam is the primary reason why I fell in love with robotics when I was just a kid. With all this years, I love building Gunpla (Model Kits of Gundam), and building Gunpla makes me peace and clam.
+
+# LEGO
 ![test](/img/avatar-icon.png)
-
-Maybe Gundam is the very beginning source where my interests of robotics comes from. 
