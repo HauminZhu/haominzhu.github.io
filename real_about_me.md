@@ -12,7 +12,7 @@ I love basketball and used to be member of high school and university school bas
 Also I'm super and crazy fan of Kobe starting from 2007. The reason I become a Kobe fan is not only his championships, his magnificent moves, his excellent techniques, but also his **passion**, his **courage**, his **pursuit of perfection** and his **unyeilding spirit**.
 
 # Gundam & Gunpla
-![gundam](/img/11.png)
+![gundam](/img/11.png =500x)
 
 (My work!)
 
